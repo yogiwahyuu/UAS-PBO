@@ -1,0 +1,14 @@
+nama project : DataPemeasananTiket
+source : packege ptik
+file : 
+1. PemesananTiket
+2. CRUDInterface
+3. CRUDSQLite
+4. FormTiketSQLite
+5. CRUDMySql
+6. FormTiketMySql
+database :
+1. SQLite : datapemesanantiket
+2. Mysql :
+   nama database : datapemesanantiket
+   tabel pemesanan
